@@ -1,4 +1,4 @@
-# Neuromorphic sttention simulator
+# Neuromorphic attention simulator
 Bio-inspired pipeline for simulating active vision with event-based sensing and attentional ROIs from 3D objects.
 
 ## Citation
