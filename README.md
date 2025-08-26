@@ -1,6 +1,10 @@
 # Neuromorphic attention simulator
 Bio-inspired pipeline for simulating active vision with event-based sensing and attentional ROIs from 3D objects.
 
+<p align="left">
+  <img src="./figures/NCDL_abstractfig.svg" alt="Attentional pipeline" width="720">
+</p>
+
 ## Citation
 This work has been presented at the Neuromorphic Computing for Development and Learning Workshop (NCDL) at the International Conference on Development and Learning (ICDL):
 
